@@ -22,3 +22,10 @@ function efg() {
 	alert()
 }
 
+function ghi() {
+	// ngasih komentar
+	console.log('aku ghi')
+	alert()
+}
+
+
