@@ -8,7 +8,7 @@ function abc() {
 	alert()
 }
 
-function cde() {
+function cde,() {
 	console.log('aku cde')
 	function abc() {
 		console.log('aku abc')
