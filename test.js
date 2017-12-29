@@ -7,7 +7,7 @@ function abc() {
 	alert()
 }
 
-function cde() {
+function cde(), {
 	console.log('aku cde')
 	function abc() {
 		console.log('aku abc')
@@ -15,7 +15,7 @@ function cde() {
 	// ngasih komentar
 }
 
-function efg() {
+function efg.() {
 	// ngasih komentar
 	console.log('aku efg')
 	alert()
