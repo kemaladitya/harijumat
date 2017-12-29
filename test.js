@@ -1,6 +1,6 @@
 var array = [1,2,3,4]
 ubah
-
+//saya mau nyoba
 function abc() {
 	console.log('aku abc')
 	// ngasih komentar
